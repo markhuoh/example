@@ -3,3 +3,4 @@ Change
 Change
 Bugfix
 Started newfeature
+Continued newfeature
